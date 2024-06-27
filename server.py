@@ -18,8 +18,11 @@
 # me gusta el nepe sss
 # comentario 27/06/2024 hora 1:16
 
+# jisus crais
+#ajsdjas puto gith
 # ads
-
+# comentarios culiaos 
+# jajsdajs github es una perra no se da cuenta de q les estoy robando
 # us-cal-1	      Estados unidos (California)
 
 
