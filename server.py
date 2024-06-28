@@ -19,6 +19,9 @@
 # jasjda
 # jasjdajs
 # adsasd
+# 4:42
+# antes de irme a bogota no quiero ir 
+# axd
 # asd
 # ajsdjasd
 # jasjd
