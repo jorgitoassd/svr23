@@ -13,7 +13,7 @@
 # eu		      Europa (Frankfurt)
 # in		      India (Mumbai)
 # jp		      Japón (Tokyo)
-# sa		      Sudamérica (São Paulo)
+# sa		      
 # us		      Estados unidos (Ohio)
 # me gusta el nepe sss
 # comentario 27/06/2024 hora 1:16
