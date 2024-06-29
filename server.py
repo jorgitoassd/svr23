@@ -13,6 +13,9 @@
 # Puedes instalar purpur después de instalar fabric desde el menú de gestionar
 # asjdasd
 # asdasd
+# actualizacion 12:35 am
+# ajsdjasd
+# chupa pija 
 # ollaaa
 # xd 
 # Regiones de ngrok
