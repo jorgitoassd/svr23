@@ -11,7 +11,10 @@
 # SAD
 # SDS
 # Puedes instalar purpur después de instalar fabric desde el menú de gestionar
-
+# asjdasd
+# asdasd
+# ollaaa
+# xd 
 # Regiones de ngrok
 # holiii
 # dios
