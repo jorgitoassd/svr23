@@ -3,49 +3,6 @@
 
 # Puedes instalar mohist después de instalar forge desde el menú de gestionar
 # Puedes instalar paper después de instalar vanilla desde el menú de gestionaasddfasdasd
-# asdasd
-# asdasd
-# asdad
-# r
-
-# SAD
-# SDS
-# Puedes instalar purpur después de instalar fabric desde el menú de gestionar
-# asjdasd
-# asdasd
-# asjdajsd
-# asda
-# actualizacion 12:35 am
-# otro
-# ajsdjasd
-# chupa pija 
-# ollaaa
-# xd 
-# Regiones de ngrok
-# holiii
-# dios
-# asjdjas
-# jasjda
-# jasjdajs
-# adsasd
-# 4:42
-# antes de irme a bogota no quiero ir 
-# axd
-# asd
-# ajsdjasd
-# jasjd
-# hola
-# kaskda
-# asjd
-# asd
-# sdas
-# casi se me acaba 
-# asjdaj
-
-# mas codigo
-# ignorar
-# esto es para que no se apague
-# asdajsdj
 # Código          Lugar
 #-----------      ---------------------------
 # ap	          Asia / Pacífico (Singapore)
