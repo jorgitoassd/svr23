@@ -14,8 +14,6 @@
 # sdasd
 # asda
 # asdas
-# asda
-# asdas
 # asd
 # asda
 # asda
