@@ -9,9 +9,6 @@
 # au		      Australia (Sydney)
 
 # id 
-# ajsdjas
-# asda
-# as
 # asdas
 # asd
 # sdasd
