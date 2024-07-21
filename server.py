@@ -8,60 +8,10 @@
 # ap	          Asia / Pacífico (Singapore)
 # au		      Australia (Sydney)
 
-# id 
-# asdas
-# asd
 
-# asd
-# asda
-# asdasd
-# asdas
-# asjda
-# asda
-# asjda
-# asjdas
-# asjdas
-# asd
-# ajsdja
-# jasdj
-# ajsdja
-# ajsdjas
-# ajsdjas
-# sss
-# ireaaly love essty 
-# eu		      Europa (Frankfurt)
-# in		      India (Mumbai)
-# jp		      Japón (Tokyo)
-# sa		      
-# asjdas
-# ajsdja
-# ajsdja
-# asjda
-# asdjas
-# asjda
-# us		      Estados unidos (Ohio)
-# me gusta el nepe sss
-# comentario 27/06/2024 hora 1:16
-
-# jisus crais
-#ajsdjas puto gith
-# ads
-# hola githubs adminitrators los amo
-# dios mio
-# aas
-# 
-# asdjas
-# comentarios culiaos 
-# jajsdajs github es una perra no se da cuenta de q les estoy robando
-# us-cal-1	      Estados unidos (California)
-#sdsd
-# 21
-# 22
-# asda
-# adas
-# asd
-# 22
-
+# 1
+# 2
+# 3
 
 
 
